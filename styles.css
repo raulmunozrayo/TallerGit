@@ -1,7 +1,22 @@
 .acontecimientoAnthony {
     background-color: darkgrey;
+    display: flex;
+    justify-content: center;
 }
 
 .acontecimientoAnthony h1 {
     color: red;
+    margin: 0 100px;
+    padding: 10px;
+}
+
+.acontecimientoAnthony p {
+    margin: 0 100px;
+    padding: 10px;
+}
+
+.acontecimientoAnthony img {
+    width: 300px;
+    margin: 0 100px;
+    padding: 10px;
 }
