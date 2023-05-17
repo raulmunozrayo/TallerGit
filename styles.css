@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 .acontecimientosraul{
     width: 70%;
     height: 60%;
@@ -25,7 +24,7 @@
     width: 8%;
     height: 8%;
     margin: 1%;
-=======
+     }
 .acontecimientoAnthony {
     background-color: darkgrey;
     display: flex;
@@ -47,9 +46,7 @@
     width: 300px;
     margin: 0 80px;
     padding: 10px;
->>>>>>> origin/feature-presentation-AnthonyBrayan
 }
-=======
 
 /* --styles Rebeca-- */
 
@@ -66,4 +63,4 @@
     height: 80px;
     text-align: center;
 }
->>>>>>> origin/feature-presentation-Rebeca
+
