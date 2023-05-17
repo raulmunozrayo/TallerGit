@@ -10,7 +10,12 @@
 .acont {
     background: olivedrab;
     margin: 30px;
-    width: 50%;
-    height: 80px;
+    width: 80%;
+    height: 150px;
     text-align: center;
+}
+
+.caja1 h1 {
+    text-align: center;
+    
 }
