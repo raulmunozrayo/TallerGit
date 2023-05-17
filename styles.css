@@ -1,0 +1,9 @@
+div {
+    background-color: darkkhaki;
+    margin: 10px;
+}
+.Acontecimentos-JuanLumbí {
+   display: flex;
+   justify-content: center;
+   background-color: aqua;
+}
