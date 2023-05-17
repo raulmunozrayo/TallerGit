@@ -1,0 +1,25 @@
+
+/* --styles Rebeca-- */
+
+
+.caja1 {
+    background: orange;
+    padding: 30px;
+    width: 50px;
+    margin: 10px;
+   
+}
+
+.caja2 {
+    background: rgb(32, 166, 196);
+    padding: 30px;
+    width: 50px;
+    margin: 10px;
+}
+
+.caja3 {
+    background: rgb(68, 181, 87);
+    padding: 30px;
+    width: 50px;
+    margin: 10px;
+}
